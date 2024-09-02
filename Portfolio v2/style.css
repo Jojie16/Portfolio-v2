@@ -299,13 +299,13 @@ nav{
 
 }
 
-@media (max-width: 380px){
+@media (max-width: 480px){
 
     .left-text-info, p, h1{
-        font-size: .6rem;
+        font-size: .5rem;
     }
 
     .left-text-info{
-        margin-top: -5vh;
+        margin-top: -10vh;
     }
 }
