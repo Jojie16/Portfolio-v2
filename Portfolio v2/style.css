@@ -299,3 +299,13 @@ nav{
 
 }
 
+@media (max-width: 300px){
+
+    .left-text-info, p, h1{
+        font-size: .7rem;
+    }
+
+    .left-text-info{
+        margin-top: -5vh;
+    }
+}
