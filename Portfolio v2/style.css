@@ -299,7 +299,7 @@ nav{
 
 }
 
-@media (max-width: 300px){
+@media (max-width: 380px){
 
     .left-text-info, p, h1{
         font-size: .6rem;
