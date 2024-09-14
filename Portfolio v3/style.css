@@ -309,6 +309,17 @@ aside h1{
 } */
 
 
+@media screen and (max-width: 480px) {
+    .project-description{
+        font-size: .7rem;
+    }
+
+    #sec2,
+    .projects-gallery{
+        padding: 0;
+    }
+}
+
 @media screen and (max-width:650px){
     #main-sec1{
         display: flex;
@@ -322,6 +333,11 @@ aside h1{
 
     .projects-container{
         flex: 1 1 100%;
+    }
+
+    #sec2,
+    .projects-gallery{
+        padding: 0;
     }
 
 }
